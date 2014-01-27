@@ -1,15 +1,15 @@
 # depslib dependency file v1.0
-1389542977 source:n:\smallftp\main.c
+1390822987 source:n:\smallftp\main.c
 	<stdio.h>
 	<stdlib.h>
 	"SrvConfig.h"
 
-1389709378 n:\smallftp\srvconfig.h
+1390810312 n:\smallftp\srvconfig.h
 	<winsock2.h>
 	<string.h>
 	<stdio.h>
 	<stdlib.h>
 
-1389542200 source:n:\smallftp\srvconfig.c
+1390827592 source:n:\smallftp\srvconfig.c
 	"SrvConfig.h"
 

@@ -5,13 +5,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct
-{
+typedef struct{
     char *name;
     char *password;
 }usr_config;
-typedef struct
-{
+
+typedef struct{
     SOCKET sock;
     WSADATA wsa;
     struct sockaddr_in addr;
